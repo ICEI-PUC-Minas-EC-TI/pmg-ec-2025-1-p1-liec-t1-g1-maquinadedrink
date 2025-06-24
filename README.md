@@ -18,6 +18,8 @@
 ## Orientador
 
 * Felipe Augusto Lara Soares
+* Sandro Jerônimo de Almeida
+* Naísses Zóia Lima
 
 ## Resumo
 
