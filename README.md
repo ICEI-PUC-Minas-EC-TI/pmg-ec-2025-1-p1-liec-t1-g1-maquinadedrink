@@ -13,7 +13,7 @@
 
 * Leonardo Trindade Cambraia Melo
 * João Carlos Pinheiro de Araújo
-* Bruno viega Campos
+* Bruno Viega Campos
 
 ## Orientador
 
