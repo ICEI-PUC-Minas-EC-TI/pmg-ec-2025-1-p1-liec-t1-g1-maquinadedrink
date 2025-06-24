@@ -1,6 +1,6 @@
 # Introdução
 
-O projeto é uma maquina de drink que se conecta a um aplicativo do app inventor onde o usuário escolhe a quantidade de mililitros que deseja que a maquina solte no recipiente, o problema que esse projeto se propõe a resolver são erros humanos na hora de medir os mililitros de algum líquido, e o seu objetivo é garantir que não haja mais esses erros. O porquê desse projeto tr sido feito é garantir que todos os drinks sejam exatamente iguais, e seu público alvo é qualquer pessoa acima dos 18 anos. 
+O projeto é uma maquina de drink que se conecta a um aplicativo do app inventor onde o usuário escolhe a quantidade de mililitros que deseja que a maquina solte no recipiente, o problema que esse projeto se propõe a resolver são erros humanos na hora de medir os mililitros de algum líquido, e o seu objetivo é garantir que não haja mais esses erros. O porquê desse projeto ter sido feito é garantir que todos os drinks sejam exatamente iguais, e seu público alvo é qualquer pessoa acima dos 18 anos. 
 
 ## Problema
 
