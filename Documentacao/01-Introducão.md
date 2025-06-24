@@ -1,17 +1,15 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto é uma maquina de drink que se conecta a um aplicativo do app inventor onde o usuário escolhe a quantidade de mililitros que deseja que a maquina solte no recipiente, o problema que esse projeto se propõe a resolver são erros humanos na hora de medir os mililitros de algum líquido, e o seu objetivo é garantir que não haja mais esses erros. O porquê desse projeto tr sido feito é garantir que todos os drinks sejam exatamente iguais, e seu público alvo é qualquer pessoa acima dos 18 anos. 
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+O problema que o projeto deve resolver é a má medição em mililitros em drinks. Esse projeto será pode ser usado tanto por bares no geral ou até mesmo para uso pessoal. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo do trabalho é facilitar a fazer drinks, garantindo uma medida exata toda vez e sempre com uma velocidade muito mais rápida que um humano faria a olho nu 
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+O público alvo do projeto é qualquer pessoa com mais de 18 anos, não importando se tem conhecimentos tecnologicos previos ou não, isso por causa de sua simplicidade.
