@@ -2,7 +2,18 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- Bomba
+- 5 resistores 
+- Garrafa
+- Esp32
+- 2 protoboards 
+- 15 fios
+- Sensor de distância 
+- Potenciômetro 
+- Led rgb
+- Led verde
+- Chave dois estados
+- Transistor
 
 # Desenvolvimento
 
