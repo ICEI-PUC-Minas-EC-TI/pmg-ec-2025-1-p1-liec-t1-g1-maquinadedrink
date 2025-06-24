@@ -1,4 +1,7 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do projeto estiver disponível, deverá complementar com as instruções de utilização. Descreva como configurar o hardware/software e informações importantes para executar o projeto.
+1-Ligue o hardware na tomada
+2-Coloque um recipiente para receber a bebida
+3-Conecte o aplicativo
+4-No aplicativo, escolha a quantidade de mililitros e clique em enviar
