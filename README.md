@@ -1,25 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`CAMPUS/UNIDADE` Coração Eucarístico
 
-`CURSO`
+`CURSO` Engenharia de Computação
 
-`SEMESTRE`
+`SEMESTRE` 1° semestre
 
-`DISCIPLINA`
+`DISCIPLINA` Laboratório de introdução a engenharia de computação
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Leonardo Trindade Cambraia Melo
+* João Carlos Pinheiro de Araújo
+* Bruno viega Campos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
