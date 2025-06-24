@@ -8,7 +8,7 @@ A metodologia de trabalho do grupo foi o Scrum
 ### Divisão de Papéis
 
 - Scrum Master: Leonardo Trindade Cambraia Melo
-- Equipe de Desenvolvimento: João Carlos Pinheiro de Araújo, Aluno 2,;
+- Equipe de Desenvolvimento: João Carlos Pinheiro de Araújo, Bruno viega Campos;
 
 ### Processo
 
@@ -19,4 +19,5 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- Arduino IDE
+- APP Inventor
